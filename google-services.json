@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357953420458",
+    "project_id": "app-agendamentos-ec887",
+    "storage_bucket": "app-agendamentos-ec887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357953420458:android:4df264f4eb82b0afd724d3",
+        "android_client_info": {
+          "package_name": "com.techeleven.agendamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357953420458-m356s4i765d93uajlal615qkebc59mfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNGWjHvquEXf4UaVlqh5fRz16YXi7qGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357953420458-m356s4i765d93uajlal615qkebc59mfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
